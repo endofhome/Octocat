@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+A branch is a copy of the files in a repository that can be modified without affecting the master copy of those files. Changes can be made and then merged with  the master branch after successful testing and comparing.
+
