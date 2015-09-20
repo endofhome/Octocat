@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone takes one repository and makes a copy of it in another directory. Often from a remote machine to a local machine. The data in the files is identical except there is a facility to track branches between the two repositories.
