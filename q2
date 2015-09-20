@@ -1,1 +1,2 @@
-Explain what the upsteam remote is usually used for, in your own words
+The upstream remote is used to keep a forked repository up to date with the production branch of the original repository. Once a repository has been forked the origin remote refers to the condition of the code at the time of the fork, so there is no way to keep the code up-to-date without using the upstream remote.
+
